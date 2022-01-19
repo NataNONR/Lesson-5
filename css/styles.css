@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  background-color: #fff4d0;
+}
+
+img {
+  display: inline-block;
+  border-radius: 5px;
+  max-width: 500px;
+  margin: 10px 0;
+}
+
+p {
+  margin: 5px 50px;
+}
+
+.bottom {
+  margin: 0 10px;
+}
